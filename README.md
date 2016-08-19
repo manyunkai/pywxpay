@@ -1,14 +1,14 @@
 # pywxpay
 WeChat Pay development based on Python.
 
+### 说明
+---
+初期开发，支持统一下单、查询订单、关闭订单及下单对账单。
+
 ### 依赖的第三方库
 ---
 * BeautifulSoup4：用于 XML 解析
 * requests：用于发送请求
-
-### 说明
----
-初期开发，支持统一下单、查询订单、关闭订单及下单对账单。
 
 ### 示例
 ---
